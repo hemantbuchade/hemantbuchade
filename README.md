@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [linktr.ee/hemant_buchade](linktr.ee/hemant_buchade)
 
-- 💬 Ask me about **SQL, Python, Tableau, PowerBI, Machine Learning**
+- 💬 Ask me about **SQL, Python, Tableau, PowerBI, and Machine Learning**
 
 - 📫 How to reach me **hemantbuchade41@gmail.com**
 
