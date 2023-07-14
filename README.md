@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hemant Buchade</h1>
-<h3 align="center">Unleashing the Power of Data: Embarking on a Journey as a Passionate Data Analyst from India
+<h1 align="center">Hi 👋, I'm Hemant </h1>
+<h3 align="center">A passionate Data Scientist from India
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantbuchade&label=Profile%20views&color=0e75b6&style=flat" alt="hemantbuchade" /> </p>
